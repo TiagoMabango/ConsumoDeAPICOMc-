@@ -1,0 +1,17 @@
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.exe
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.deps.json
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.runtimeconfig.json
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.dll
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\ConsumoDeAPI.pdb
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.csproj.AssemblyReference.cache
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.AssemblyInfoInputs.cache
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.AssemblyInfo.cs
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.csproj.CoreCompileInputs.cache
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.dll
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\refint\ConsumoDeAPI.dll
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.pdb
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.genruntimeconfig.cache
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ref\ConsumoDeAPI.dll
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kero\source\repos\ConsumoDeAPI\ConsumoDeAPI\obj\Debug\net6.0\ConsumoDeAPI.csproj.CopyComplete

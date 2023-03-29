@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImQjitvNr1nRgL02ieXVAxO7iwvsgvIULSx/1tU0LI5aacZT4XesIYk09ZCWUJuVL4odf1LuaVM6KDnUq6noYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kero\\source\\repos\\ConsumoDeAPI\\ConsumoDeAPI\\ConsumoDeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kero\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
